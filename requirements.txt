@@ -1,0 +1,3 @@
+kurigram[fast]==2.2.23
+pythonping==1.1.4
+psutil==7.2.2
